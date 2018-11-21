@@ -1222,7 +1222,7 @@ const IDEAs = {
 			`Mafia Reflexive Doctor`,
 			`Hirsute Mafia Goon`,
 			`Mafia Cupid`,
-			`Alpha Goon`,
+			`Alpha Mafia Goon`,
 			`Mafia Compulsive Hider`,
 			`Mafia Fruit Vendor`,
 			`Werewolf`,
